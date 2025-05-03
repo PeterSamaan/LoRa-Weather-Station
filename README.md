@@ -59,6 +59,14 @@ At the time that the project is still supported the setup for the windows app is
     Mikołaj Materka                548471
     Peter Joseph Mikhail Samaan    545727
 
+## Personal Contripution (Peter Samaan)
+
+    mqtt_parser             console project to listen to data frm TTN and upload to the database
+    database                Triggers, modifications, backups
+    WeatherThingyService    app class for retrieving data via API
+    
+    
+
 ## Tech stack
 
 ### Languages
